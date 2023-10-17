@@ -125,6 +125,7 @@ console.log(123)
   background: wheat;
   word-wrap: break-word;
   word-break: normal;
+  //word-break:break-all;
   width: 51%;
   padding: 10px;
   border-radius: 10px;
