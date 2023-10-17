@@ -1,7 +1,7 @@
 # vue3
 要实现自适应
 需要安装 npm i autoprefixer postcss-plugin-px2rem -D
-修改config.js 该项目不适用
+修改config.js 该项目不适用（my app-vue）
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
