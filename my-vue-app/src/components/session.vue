@@ -123,6 +123,8 @@ console.log(123)
 }
 .leftse{
   background: wheat;
+  word-wrap: break-word;
+  word-break: normal;
   width: 51%;
   padding: 10px;
   border-radius: 10px;
@@ -131,6 +133,8 @@ console.log(123)
 .rightse{
   background: hotpink;
   position: relative;
+  word-wrap: break-word;
+  word-break: normal;
   left:43%;
   width: 51%;
   padding: 10px;
