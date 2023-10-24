@@ -1,5 +1,9 @@
 import { createApp } from 'vue'
 import './style.css'
+import 'amfe-flexible'
 import App from './App.vue'
+import  store from './store/index.js'
+const app=createApp(App)
+app.use(store)
+app.mount('#app')
 
-createApp(App).mount('#app')
